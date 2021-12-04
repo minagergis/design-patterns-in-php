@@ -1,0 +1,18 @@
+{
+    "name": "minaatef/design-patterns-in-php",
+    "description": "Code examples for design patterns",
+    "authors": [
+        {
+            "name": "Mina A. Gergis",
+            "email": "minaatifabduallah@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\" : "Creational"
+        }
+    }
+}
